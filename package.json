@@ -1,0 +1,23 @@
+{
+  "name": "playwright-cource",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonpt-stack/Playwright-cource.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sonpt-stack/Playwright-cource/issues"
+  },
+  "homepage": "https://github.com/sonpt-stack/Playwright-cource#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
